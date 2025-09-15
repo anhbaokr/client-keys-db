@@ -1,5 +1,7 @@
 {
   "mid": "cffa7bd3fb1b38e4e0f2831d5339f1de8431e25b371e6d2ddd65a0fdb0fa7553",
-  "exp": 1757993198,
-  "timestamp": "2025-09-15T03:26:38.035Z"
+  "token": "eyJtaWQiOiJjZmZhN2JkM2ZiMWIzOGU0ZTBmMjgzMWQ1MzM5ZjFkZTg0MzFlMjViMzcxZTZkMmRkZDY1YTBmZGIwZmE3NTUzIiwiZXhwIjoxNzU4MDgwMjg4fQ.d_qqi6-OFMsZwwVBugjoQ3ah2llINWQ8GTcJYCXhd0YoHAZA8q6h5cwAfHxDsAc7gCsphULpwlP1SO0bh8-SBQ",
+  "exp": 1758080288,
+  "blocked": true,
+  "timestamp": "2025-09-15T03:38:36.093Z"
 }
